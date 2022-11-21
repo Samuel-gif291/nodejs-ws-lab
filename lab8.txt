@@ -1,0 +1,9 @@
+Q1) I recieved an error.
+Q2) Typescript is an object orientiented programming language while Javascript is a web programming language.
+Q3) A web application bundler is important because it helps to minify the code, a module bundler also provides features for
+ good developer experience such as hot reloading, code splitting and more. Some services include Dev Server, Hot reloading, diagnostics, native performance, lazy dev builds, reliable caching,
+ automatic producttion optimization, minification, image optimization, compression, code splitting, content hashing, transpilation, etc.
+Q4) The different values for a readystate are 0, 1, 2, 3. 0 indicates that the socket has been created and the connection is not yet open.
+1 indicates that the connection is open and ready to communicate. 2 indicates that the connection is in the process of closing. 3 indicates that
+the connection is closed or couldn't be opened.
+Q5) https://github.com/Samuel-gif291/nodejs-ws-lab.git
